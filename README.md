@@ -5,7 +5,7 @@ pip install streamlit<br><br>
 <h2> Run The App </h2>
 streamlit run UI.py
 
-<h1>Modification Required in the code :- </h1>
+<h1>Modifications Required in the code :- </h1>
 
 <h2> Loading The Model </h2>
 
