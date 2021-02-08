@@ -13,4 +13,4 @@ In load_model function load the model (by either importing the model or use pick
 
 <h2> Fetching The Output </h2>
 
-Question is in the question variable. Input answer is in input_answer variable , use the question and input_answer to fetch required output using model variable.
+Question is in the question variable. Input answer is in the input_answer variable , use the question and the input_answer to fetch the required output using model variable.
